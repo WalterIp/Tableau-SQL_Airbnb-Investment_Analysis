@@ -2,6 +2,8 @@
 
 ## Background Information
 
+
+-- 
 Data Source
-http://insideairbnb.com/get-the-data/
+- http://insideairbnb.com/get-the-data/
 
